@@ -1,6 +1,4 @@
-# Programming Assignment
-## CS614: Linux Kernel Programming, 2022-23, Semester-II
-
+# Readme
 ## Directory Structure
 PA3 code base contains five directories, Makefile and other supported files required to complete the PA3 and described as follows:
 
