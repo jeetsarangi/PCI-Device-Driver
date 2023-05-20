@@ -10,11 +10,6 @@ PA3 code base contains five directories, Makefile and other supported files requ
 
 **3.** The **test-cases** directory contains the test-cases that uses the library you are going to build for the CryptoCard.
 
-**4.** The **report** directory contains a blank **README** file. Before submitting the assignment, populate it with necessary information like references used, help taken from others etc. for completing the PA. Apart from the README file, you need to submit a **report in PDF** that you can place within the same directory.
-
-**5.** The **drivers** directory is placeholder where you should put your drivers code along with its associated makefile. Makefile should generate driver module with name **cryptocard_mod.ko** in the drivers directory only.
-
-
 ## To Build System
 Use **make** command to compile the assignment. After successful compilation, all the binaries for test-cases are generated in the root directory of the PA code base. Apart from the binary file, additionally two directory are generated namely, **lib** and **obj**. The directory **lib** holds the object code and shared library **libcrypter.so** for CryptoCard while **obj** populated with the object code of the test-cases.
 
