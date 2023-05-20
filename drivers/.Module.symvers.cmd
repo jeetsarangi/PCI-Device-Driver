@@ -1,0 +1,1 @@
+cmd_/home/jeetvm/Downloads/Assignment3/PA3/template/drivers/Module.symvers :=  sed 's/ko$$/o/'  /home/jeetvm/Downloads/Assignment3/PA3/template/drivers/modules.order | scripts/mod/modpost      -o /home/jeetvm/Downloads/Assignment3/PA3/template/drivers/Module.symvers -e -i Module.symvers -T - 
